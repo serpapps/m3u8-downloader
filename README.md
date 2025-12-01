@@ -1,4 +1,4 @@
-# M3u8 Downloader
+# M3u8 Video Stream Downloader (Browser Extension for Chrome, Firefox, Opera, Edge)
 
 > Download HLS streams from M3U8 playlists with encryption support
 
