@@ -37,3 +37,10 @@ M3u8 Downloader is a powerful tool that helps you download content from M3u8 ins
 m3u8 downloader
 </details>
 
+
+## Related
+
+- [Repository](https://github.com/serpapps/m3u8-downloader)
+- [Release](https://gist.github.com/devinschumacher/35725b4e6b7e9a2937bf314f92ec1662)
+- [How to Download m3u8 / HLS stream videos for free](https://gist.github.com/devinschumacher/aad315b92661fdaad316b949c33c94c7)
+
