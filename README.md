@@ -136,19 +136,19 @@ Start here: [https://serp.ly/m3u8-downloader](https://serp.ly/m3u8-downloader)
 
 ## FAQ
 
-**What does this extension download?**  
+**What does this extension download**  
 Compatible HLS/M3U8 streams and related media sources that are visible to the browser on supported pages.
 
-**Does it save videos as MP4?**  
+**Does it save videos as MP4**  
 Yes. Compatible stream workflows are exported as MP4 files.
 
-**Do I need FFmpeg or terminal commands?**  
+**Do I need FFmpeg or terminal commands**  
 No. Everything runs through the browser extension workflow.
 
-**Why do I have to press play first?**  
+**Why do I have to press play first**  
 Because the stream usually is not exposed until the player actually starts loading media.
 
-**Does it work on every streaming site?**  
+**Does it work on every streaming site**  
 No. It depends on the actual browser-visible media workflow and whether the stream is compatible with this extensionâ€™s detection path.
 
 ## Notes
