@@ -12,15 +12,15 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 
 ## Links
 
-- 🚀 Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/m3u8-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/m3u8-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/m3u8-downloader/issues)
+- ðŸš€ Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/m3u8-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/m3u8-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/m3u8-downloader/issues)
 
 ## Preview
 
-![M3U8 Downloader workflow preview](assets/workflow-preview.svg)
+![M3U8 Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
@@ -149,7 +149,7 @@ No. Everything runs through the browser extension workflow.
 Because the stream usually is not exposed until the player actually starts loading media.
 
 **Does it work on every streaming site?**  
-No. It depends on the actual browser-visible media workflow and whether the stream is compatible with this extension’s detection path.
+No. It depends on the actual browser-visible media workflow and whether the stream is compatible with this extensionâ€™s detection path.
 
 ## Notes
 
