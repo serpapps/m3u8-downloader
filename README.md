@@ -12,11 +12,11 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 
 ## Links
 
-- ðŸš€ Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
-- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/m3u8-downloader/releases/latest)
-- â“ Help center: [SERP Help](https://help.serp.co/en/)
-- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/m3u8-downloader/issues)
-- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/m3u8-downloader/issues)
+- :rocket: Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
+- :new: Latest release: [GitHub Releases](https://github.com/serpapps/m3u8-downloader/releases/latest)
+- :question: Help center: [SERP Help](https://help.serp.co/en/)
+- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/m3u8-downloader/issues)
+- :bulb: Request features: [Feature Requests](https://github.com/serpapps/m3u8-downloader/issues)
 
 ## Preview
 
@@ -149,7 +149,11 @@ No. Everything runs through the browser extension workflow.
 Because the stream usually is not exposed until the player actually starts loading media.
 
 **Does it work on every streaming site?**  
-No. It depends on the actual browser-visible media workflow and whether the stream is compatible with this extensionâ€™s detection path.
+No. It depends on the actual browser-visible media workflow and whether the stream is compatible with this extension's detection path.
+
+## License
+
+This repository is distributed under the proprietary SERP Apps license in the [LICENSE](LICENSE) file. Review that file before copying, modifying, or redistributing any part of this project.
 
 ## Notes
 
