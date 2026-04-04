@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Browser extension for detecting HLS playlists, downloading stream segments, and merging them into local MP4 files with fully in-browser processing.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "m3u8-downloader",
+  "readme": "../README.md",
+  "title": "M3U8 Downloader",
+  "version": "0.0"
+}
