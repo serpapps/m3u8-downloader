@@ -5,9 +5,9 @@
 
 ## Get the extension
 
-**Start here:** [M3U8 Downloader](https://serp.ly/m3u8-downloader)
+**Install here:** [M3U8 Downloader](https://serp.ly/m3u8-downloader)
 
-This Apify page is the overview. The actual browser extension is available from the product page above.
+Use the product page above to get the browser extension and install instructions.
 
 - Product page: https://serp.ly/m3u8-downloader
 - GitHub repo: https://github.com/serpapps/m3u8-downloader
