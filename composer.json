@@ -1,0 +1,24 @@
+{
+    "name": "serpapps/m3u8-downloader",
+    "type": "library",
+    "description": "Download HLS streams from M3U8 playlists with encryption support",
+    "keywords": [
+        "m3u8-downloader",
+        "hls-downloader",
+        "browser-extension",
+        "stream-downloader",
+        "video-downloader"
+    ],
+    "homepage": "https://github.com/serpapps/m3u8-downloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SERP Apps",
+            "homepage": "https://github.com/serpapps",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
