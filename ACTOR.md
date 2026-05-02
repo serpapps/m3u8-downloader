@@ -2,17 +2,9 @@
 
 > Download HLS streams from M3U8 playlists with encryption support
 
-## Get the extension
+## Get it Here
 
-**Install here:** [M3U8 Downloader](https://serp.ly/m3u8-downloader)
-
-Use the product page above to get the browser extension and install instructions.
-
-- Product page: https://serp.ly/m3u8-downloader
-- GitHub repo: https://github.com/serpapps/m3u8-downloader
-- Latest release: https://github.com/serpapps/m3u8-downloader/releases/latest
-
-![M3U8 Downloader](https://raw.githubusercontent.com/serpapps/m3u8-downloader/main/images/m3u8-downloader.gif)
+Get it here: https://serp.ly/m3u8-downloader
 
 ## Features
 
