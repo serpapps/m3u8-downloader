@@ -1,5 +1,11 @@
 # M3U8 Downloader (Browser Extension)
 
+## Watch the video
+
+<a href="https://www.youtube.com/watch?v=7oRjGQ1Mi3s" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-native-skoolcom-videos-free-method-m3u8-hls-streaming-video-download-trick.jpg" width="700px">
+</a>
+
 > Detect and download HLS/M3U8 streams from supported websites and save them as MP4 files.
 
 M3U8 Downloader is a browser extension built for users who need a site-agnostic HLS workflow instead of a single-site downloader. It monitors supported media requests in your browser, detects M3U8/HLS streams and related video sources, and helps you export them into standard MP4 files without relying on command-line tools.
