@@ -10,6 +10,12 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 - Download media from browser-visible streaming sessions
 - Use a browser workflow instead of FFmpeg or manual playlist extraction
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=7oRjGQ1Mi3s" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-native-skoolcom-videos-free-method-m3u8-hls-streaming-video-download-trick.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
@@ -20,7 +26,7 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 
 ## Preview
 
-![M3U8 Downloader workflow preview](assets/workflow-preview.webp)
+![M3U8 Downloader workflow preview](https://raw.githubusercontent.com/serpapps/m3u8-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
