@@ -20,7 +20,9 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 
 ## Preview
 
-![M3U8 Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=7oRjGQ1Mi3s" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-native-skoolcom-videos-free-method-m3u8-hls-streaming-video-download-trick.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
