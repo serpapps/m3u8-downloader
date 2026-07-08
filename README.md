@@ -1,4 +1,4 @@
-# M3U8 Downloader (Browser Extension)
+# M3U8 Video Downloader (Browser Extension)
 
 > Detect and download HLS/M3U8 streams from supported websites and save them as MP4 files.
 
@@ -12,7 +12,7 @@ M3U8 Downloader is a browser extension built for users who need a site-agnostic 
 
 ## Links
 
-- :rocket: Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader)
+- :rocket: Get it here: [M3U8 Downloader](https://serp.ly/m3u8-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/m3u8-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/m3u8-downloader/issues)
@@ -125,7 +125,7 @@ DRM-protected content is outside the supported scope of normal HLS capture workf
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/m3u8-downloader](https://serp.ly/m3u8-downloader)
+Start here: [https://serp.ly/m3u8-downloader?via=github](https://serp.ly/m3u8-downloader?via=github)
 
 ## Installation Instructions
 
