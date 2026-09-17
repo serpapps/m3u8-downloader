@@ -1,0 +1,93 @@
+{
+  "manifest_version": 3,
+  "name": "Downloader for M3U8",
+  "description": "Download videos from M3U8 streams and pages.",
+  "version": "4.0.2",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "64": "icons/icon64.png",
+    "96": "icons/icon96.png",
+    "128": "icons/icon128.png"
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "permissions": [
+    "webRequest",
+    "webNavigation",
+    "downloads",
+    "tabs",
+    "storage",
+    "offscreen",
+    "scripting",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://api.github.com/*",
+    "https://auth.serp.co/*",
+    "https://*/*",
+    "http://*/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "modules/**/*"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    },
+    {
+      "resources": [
+        "offscreen-hls.html",
+        "offscreen-hls.js",
+        "indexed-db.js",
+        "download-helper.html",
+        "download-helper.js",
+        "page-bridge.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    },
+    {
+      "resources": [
+        "download-manager/integration-helper.js",
+        "download-manager/download-manager.js",
+        "download-manager/download-manager-config.js",
+        "download-manager/download-manager-state.js",
+        "download-manager/download-manager-ui.js"
+      ],
+      "matches": [
+        "https://*/*",
+        "http://*/*"
+      ]
+    }
+  ],
+  "content_scripts": [
+    {
+      "js": [
+        "serp-bundles/content-1.graph.js"
+      ],
+      "matches": [
+        "https://*/*",
+        "http://*/*"
+      ],
+      "all_frames": true,
+      "run_at": "document_start"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Downloader for M3U8",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+    },
+    "default_popup": "popup.html"
+  }
+}

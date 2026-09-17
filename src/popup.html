@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Video Downloader for M3U8</title>
+    <style id="serp-auth-boot-css">#activationSection{display:none !important;} #activationSection[data-serp-auth-ui="1"]{display:block !important;}</style>
+    <style id="vdp-popup-tweaks">#download-progress,.download-progress{display:none !important;}</style>
+    <!-- auth-ui.js expects global SiteConfig + Auth; load config before auth -->
+    <script src="site-config.js"></script>
+    <script src="logger.js"></script>
+    <script src="auth.js"></script>
+    <script type="module" crossorigin src="popup.js"></script>
+    <link rel="stylesheet" href="./styles/styles.css" />
+    <link rel="stylesheet" href="./styles/popup-enhanced.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Video Downloader for M3U8</h1>
+              </div>
+
+      
+      <div id="activationSection" class="activation-section"></div>
+
+      <div id="mainContent" class="main-content hidden">
+        <div id="loading" class="loading">
+          <div class="spinner"></div>
+          <p>Detecting streams...</p>
+        </div>
+
+        <div id="error" class="error hidden">
+          <p class="error-message"></p>
+        </div>
+
+      <div id="video-info" class="video-info hidden">
+        <div class="video-card">
+          <div class="video-thumbnail-container">
+            <img id="thumbnail" class="video-thumbnail-image" src="" alt="Video thumbnail">
+            <div class="thumbnail-placeholder" id="thumbnail-placeholder">
+              <div class="placeholder-content">
+                <div class="placeholder-icon"></div>
+                <div class="placeholder-text">No preview yet</div>
+              </div>
+            </div>
+            <div class="video-duration-badge" id="duration-badge"></div>
+          </div>
+
+          <div class="video-details">
+            <h2 id="video-title">Activate Video Downloader for M3U8</h2>
+            <div class="video-meta">
+              <span id="video-duration" class="duration"></span>
+            </div>
+          </div>
+
+          <div class="download-section">
+            <h3>Select Quality:</h3>
+            <select id="quality-select" class="quality-select">
+              <option value="">Loading formats...</option>
+            </select>
+
+            <button id="download-btn" class="download-btn">Download Video</button>
+
+            <div id="download-progress" class="download-progress hidden">
+              <div class="progress-bar">
+                <div class="progress-fill"></div>
+              </div>
+              <div class="progress-text">Preparing download...</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+
+      <script defer src="auth-ui.js"></script>
+    <script defer src="trial-banner.js"></script>
+    <script defer src="update-notifier.js"></script>
+</body>
+</html>
+
+
+
+
