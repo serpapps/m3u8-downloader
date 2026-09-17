@@ -1,0 +1,37 @@
+.quality-section {
+  margin-bottom: 20px;
+  padding: 16px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+}
+
+.quality-section label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #333;
+  font-size: 13px;
+}
+
+.quality-select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  font-size: 13px;
+  background: white;
+  color: #333;
+  cursor: pointer;
+  transition: border-color 0.2s ease;
+}
+
+.quality-select:focus {
+  outline: none;
+  border-color: #e65100;
+  box-shadow: 0 0 0 2px rgba(94, 53, 177, 0.1);
+}
+
+.quality-select:hover {
+  border-color: #b0b0b0;
+}
